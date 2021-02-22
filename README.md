@@ -6,13 +6,13 @@ https://www.udacity.com/course/data-analyst-nanodegree--nd002
 
 ### Final projects after each part of the program: ###  
 
-**Exploring Weather Trends**   
+**[Exploring Weather Trends](P1_Explore_Weather_Trends/Weather_Trends_Litvinova.pdf)**   
 In this project, we need to analyze local and global temperature data and compare the temperature trends in student’s local area (in my case, this is Amsterdam) with the general global temperature trends.
 
-**Investigate TMDb movie data**   
+**[Investigate TMDb movie data](P2_Investigate_TMDb_Movie_Data/Investigate_a_Dataset.ipynb)**   
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. 
 In this project, we need to analyze a dataset and then share our findings about it. NumPy, Pandas and Matplotlib Python libraries are used in the project to simplify analysis.
 
-**Analyze A/B Test Results**   
+**[Analyze A/B Test Results](P3_Analyze_AB_Test_Results/Analyze_ab_test_results_notebook.ipynb)**   
 The company developed a new web page to try to increase the number of users who "convert", that is, the number of users who decide to pay for the company's product. 
 In this project, we work to understand the results of an A / B test run by an e-commerce website. Our goal is to work through this notebook to help the company understand whether to implement this new page, keep the old one, or perhaps run the experiment for a longer period before making a decision.
