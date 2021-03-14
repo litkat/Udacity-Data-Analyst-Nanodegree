@@ -15,4 +15,10 @@ In this project, we need to analyze a dataset and then share our findings about 
 
 **[Analyze A/B Test Results](P3_Analyze_AB_Test_Results/Analyze_ab_test_results_notebook.ipynb)**   
 The company developed a new web page to try to increase the number of users who "convert", that is, the number of users who decide to pay for the company's product. 
-In this project, we work to understand the results of an A / B test run by an e-commerce website. Our goal is to work through this notebook to help the company understand whether to implement this new page, keep the old one, or perhaps run the experiment for a longer period before making a decision.
+In this project, we work to understand the results of an A / B test run by an e-commerce website. Our goal is to work through this notebook to help the company understand whether to implement this new page, keep the old one, or perhaps run the experiment for a longer period before making a decision.   
+
+**[Wrangle and Analyze Data](P4_Wrangle_And_Analyze_Data/wrangle_act.ipynb)**   
+The dataset that we wrangled (as well as analyzed and visualized) is the tweet archive of the Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. Our goal is to process WeRateDogs tweet data to create interesting and reliable analysis and visualizations.   
+**A summary of data processing for this project can be viewed here:**   
+[Wrangle report](P4_Wrangle_And_Analyze_Data/act_report.pdf) - briefly describes our wrangling efforts.   
+[Act report](P4_Wrangle_And_Analyze_Data/wrangle_report.pdf) - communicates especially interesting insights and displays visualizations produced from our wrangled data.
