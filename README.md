@@ -26,5 +26,5 @@ The dataset that we wrangled (as well as analyzed and visualized) is the tweet a
 **[Communicate Data Findings](P5_Communicate_Data_Findings/slide_deck_for_the_dataset_Ford_GoBike_System_Data.slides.html)**   
 The dataset includes information about individual rides made in a bike-sharing system in February, 2019. The total amount of data items (rides) in the dataset after cleaning all incorrect data is 174952. The data for this dataset was downloaded from Udacity. In this analysis, the main interest is the data associated with the user, as well as the features associated with the movement of the users. I find it useful for business to have information about the most popular stations, user routes and the hours and days of the week when users are most active in rental.   
 **A summary of data processing for this project can be viewed here:**   
-[exploratory data analysis](P5_Communicate_Data_Findings/exploration_dataset_Ford_GoBike.ipynb) - Includes all parts of data processing.   
-[explanatory data analysis](P5_Communicate_Data_Findings/slide_deck_for_the_dataset_Ford_GoBike_System_Data.ipynb) - Part of data visualization for an external audience.
+[exploratory data analysis](P5_Communicate_Data_Findings/exploration_dataset_Ford_GoBike.ipynb) - includes all parts of data processing.   
+[explanatory data analysis](P5_Communicate_Data_Findings/slide_deck_for_the_dataset_Ford_GoBike_System_Data.ipynb) - part of data visualization for an external audience.
