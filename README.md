@@ -20,5 +20,11 @@ In this project, we work to understand the results of an A / B test run by an e-
 **[Wrangle and Analyze Data](P4_Wrangle_And_Analyze_Data/wrangle_act.ipynb)**   
 The dataset that we wrangled (as well as analyzed and visualized) is the tweet archive of the Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. Our goal is to process WeRateDogs tweet data to create interesting and reliable analysis and visualizations.   
 **A summary of data processing for this project can be viewed here:**   
-[Wrangle report](P4_Wrangle_And_Analyze_Data/act_report.pdf) - briefly describes our wrangling efforts.   
-[Act report](P4_Wrangle_And_Analyze_Data/wrangle_report.pdf) - communicates especially interesting insights and displays visualizations produced from our wrangled data.
+[Wrangle report](P4_Wrangle_And_Analyze_Data/wrangle_report.pdf) - briefly describes our wrangling efforts.   
+[Act report](P4_Wrangle_And_Analyze_Data/act_report.pdf) - communicates especially interesting insights and displays visualizations produced from our wrangled data.
+
+**[Communicate Data Findings](P5_Communicate_Data_Findings/slide_deck_for_the_dataset_Ford_GoBike_System_Data.slides.html)**   
+The dataset includes information about individual rides made in a bike-sharing system in February, 2019. The total amount of data items (rides) in the dataset after cleaning all incorrect data is 174952. The data for this dataset was downloaded from Udacity. In this analysis, the main interest is the data associated with the user, as well as the features associated with the movement of the users. I find it useful for business to have information about the most popular stations, user routes and the hours and days of the week when users are most active in rental.   
+**A summary of data processing for this project can be viewed here:**   
+[exploratory data analysis](P5_Communicate_Data_Findings/exploration_dataset_Ford_GoBike.ipynb) - Includes all parts of data processing.   
+[explanatory data analysis](P5_Communicate_Data_Findings/slide_deck_for_the_dataset_Ford_GoBike_System_Data.ipynb) - Part of data visualization for an external audience.
