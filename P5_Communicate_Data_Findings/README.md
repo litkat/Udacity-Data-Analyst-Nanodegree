@@ -15,8 +15,9 @@ I find it useful for business to have an information about the most popular stat
 - Subscribers usually use bicycles for much shorter trips than Customers.
 - Regardless of the user type the most popular time to pick up the bike is around 8 and 17 o'clock. Based on this we can conclude that majority of people use this service to get to their work place and back.
 - Also, regardless of the type of user, the busiest day is Thursday, which is quite unexpected.
-- Subscriber journey times are almost equally distributed up to age 63 and then reduced. For customers, the difference is more noticeable, with the longest trips made by users between the ages of 20 and 40. We also found that customers have more long trips than subscribers.   
-- The most popular route is from 'Berry St at 4th St' to 'San Francisco Ferry Building (Harry Bridges Plaza)' with the count of 327 rides.
+- The most popular route is from 'Berry St at 4th St' to 'San Francisco Ferry Building (Harry Bridges Plaza)' with the count of 327 rides.   
+- Based on the graph 'Trip Duration, User Type and Age' we can conclude that in general there's more longer trips in 'Customer' category than in 'Subscribers category. We also observed this on a boxplot previously. However, in the age group of 20 - 30 years Subscribers have slightly more long trips than Customers.   
+- Some interesting information about relationships between trip duration, start hour and user category. At first, we can conclude that there's almost no difference in behaviour between Customers and Subscribers here. Then, that most of the trips with duration between 4 - 10 hours (or 240 - 600 minutes) start between 8 and 10 in the morning. Lastly, the longest trips (over 15 hours or 900 minutes) mostly happen in the second half of the day.   
 
 **Key points for presentation:**   
 
