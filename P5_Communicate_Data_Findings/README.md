@@ -21,7 +21,7 @@ I find it useful for business to have an information about the most popular stat
 
 **Key points for presentation:**   
 
-For my presentation, I decided to include observations related to such parameters as types of users (subscribers / non-subscribers) and their travels (trip duration, popular stations, routes, etc.).   
+For my presentation, I decided to include observations related to such parameters as types of users (Subscriber / Customer) and their travels (trip duration, popular stations, routes, etc.).   
 
 **A summary of data processing for this project can be viewed here:** 
 
